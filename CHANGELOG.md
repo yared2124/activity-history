@@ -13,3 +13,4 @@
 - [2026-01-07T12:37:23] Clean up deprecated methods (#947)
 - [2026-01-07T12:01:24] Clean up deprecated methods (#247)
 - [2026-01-07T15:13:07] Fix styling and responsiveness (#394)
+- [2026-01-07T17:33:31] Optimize query performance (#153)
