@@ -11,3 +11,4 @@
 - [2026-01-06T15:34:29] Refine algorithm for data transformation (#651)
 - [2026-01-07T10:41:51] Clean up deprecated methods (#942)
 - [2026-01-07T12:37:23] Clean up deprecated methods (#947)
+- [2026-01-07T12:01:24] Clean up deprecated methods (#247)
