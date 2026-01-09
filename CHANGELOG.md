@@ -20,3 +20,4 @@
 - [2026-01-08T16:21:18] Fix edge case in input validation (#405)
 - [2026-01-08T18:17:05] Update configuration defaults (#754)
 - [2026-01-09T10:53:33] Clean up deprecated methods (#646)
+- [2026-01-09T16:40:38] Modularize utility classes (#215)
