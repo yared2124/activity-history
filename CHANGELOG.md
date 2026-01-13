@@ -25,3 +25,4 @@
 - [2026-01-10T09:37:18] Clean up unused imports and formatting (#423)
 - [2026-01-11T09:05:27] Update project documentation and examples (#321)
 - [2026-01-12T19:46:55] Refine algorithm for data transformation (#949)
+- [2026-01-13T14:37:23] Update README with usage instructions (#850)
