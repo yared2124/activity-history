@@ -26,3 +26,4 @@
 - [2026-01-11T09:05:27] Update project documentation and examples (#321)
 - [2026-01-12T19:46:55] Refine algorithm for data transformation (#949)
 - [2026-01-13T14:37:23] Update README with usage instructions (#850)
+- [2026-01-13T15:20:26] Clean up deprecated methods (#192)
