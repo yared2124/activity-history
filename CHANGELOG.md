@@ -32,3 +32,4 @@
 - [2026-01-15T11:57:57] Fix styling and responsiveness (#653)
 - [2026-01-16T18:37:05] Sync dependencies and patch security alerts (#304)
 - [2026-01-17T09:48:37] Update project documentation and examples (#114)
+- [2026-01-17T15:53:19] Tune memory allocation in worker threads (#505)
