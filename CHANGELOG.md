@@ -34,3 +34,4 @@
 - [2026-01-17T09:48:37] Update project documentation and examples (#114)
 - [2026-01-17T15:53:19] Tune memory allocation in worker threads (#505)
 - [2026-01-17T15:04:51] Refactor data processing pipeline (#636)
+- [2026-01-17T17:01:38] Add test suite for helper functions (#401)
