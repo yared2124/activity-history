@@ -49,3 +49,4 @@
 - [2026-01-20T11:07:16] Add test suite for helper functions (#148)
 - [2026-01-20T12:48:48] Add integration test cases (#968)
 - [2026-01-20T13:18:33] Fix edge case in input validation (#489)
+- [2026-01-20T16:49:54] Standardize response schema (#406)
