@@ -63,3 +63,4 @@
 - [2026-01-23T13:06:58] Improve error handling and logging (#268)
 - [2026-01-23T16:52:01] Optimize query performance (#854)
 - [2026-01-23T20:17:19] Optimize query performance (#400)
+- [2026-01-23T20:45:13] Clean up deprecated methods (#305)
