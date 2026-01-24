@@ -67,3 +67,4 @@
 - [2026-01-23T21:10:40] Standardize response schema (#762)
 - [2026-01-23T21:10:12] Tune memory allocation in worker threads (#330)
 - [2026-01-23T21:46:01] Fix boundary index calculations (#954)
+- [2026-01-24T16:40:15] Add integration test cases (#771)
