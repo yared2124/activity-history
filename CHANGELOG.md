@@ -69,3 +69,4 @@
 - [2026-01-23T21:46:01] Fix boundary index calculations (#954)
 - [2026-01-24T16:40:15] Add integration test cases (#771)
 - [2026-01-24T17:29:07] Standardize response schema (#994)
+- [2026-01-25T14:50:37] Clean up deprecated methods (#740)
