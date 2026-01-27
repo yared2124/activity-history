@@ -74,3 +74,4 @@
 - [2026-01-26T21:19:47] Update project documentation and examples (#419)
 - [2026-01-27T12:40:06] Modularize utility classes (#552)
 - [2026-01-27T13:44:15] Refactor data processing pipeline (#987)
+- [2026-01-27T16:51:45] Fix edge case in input validation (#501)
