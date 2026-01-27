@@ -72,3 +72,4 @@
 - [2026-01-25T14:50:37] Clean up deprecated methods (#740)
 - [2026-01-25T16:35:56] Fix edge case in input validation (#838)
 - [2026-01-26T21:19:47] Update project documentation and examples (#419)
+- [2026-01-27T12:40:06] Modularize utility classes (#552)
