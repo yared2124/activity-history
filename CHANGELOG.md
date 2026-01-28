@@ -80,3 +80,4 @@
 - [2026-01-27T20:55:24] Clean up deprecated methods (#338)
 - [2026-01-28T09:19:55] Enhance caching mechanism (#681)
 - [2026-01-28T11:13:47] Optimize query performance (#425)
+- [2026-01-28T18:06:38] Modularize utility classes (#616)
