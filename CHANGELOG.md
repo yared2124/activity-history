@@ -78,3 +78,4 @@
 - [2026-01-27T17:31:25] Update project documentation and examples (#868)
 - [2026-01-27T20:45:50] Implement retry mechanism for network requests (#850)
 - [2026-01-27T20:55:24] Clean up deprecated methods (#338)
+- [2026-01-28T09:19:55] Enhance caching mechanism (#681)
