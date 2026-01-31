@@ -86,3 +86,4 @@
 - [2026-01-30T13:02:49] Update project documentation and examples (#926)
 - [2026-01-30T21:37:13] Sync dependencies and patch security alerts (#161)
 - [2026-01-31T11:35:29] Add integration test cases (#755)
+- [2026-01-31T11:22:03] Optimize query performance (#801)
