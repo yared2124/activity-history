@@ -89,3 +89,4 @@
 - [2026-01-31T11:22:03] Optimize query performance (#801)
 - [2026-01-31T18:42:50] Enhance caching mechanism (#886)
 - [2026-01-31T21:10:09] Optimize query performance (#840)
+- [2026-02-01T09:24:52] Clean up deprecated methods (#919)
