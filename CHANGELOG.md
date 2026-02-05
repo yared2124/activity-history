@@ -96,3 +96,4 @@
 - [2026-02-04T14:42:06] Tune memory allocation in worker threads (#555)
 - [2026-02-04T15:36:52] Modularize utility classes (#301)
 - [2026-02-05T10:08:41] Optimize query performance (#571)
+- [2026-02-05T12:21:51] Clean up deprecated methods (#344)
