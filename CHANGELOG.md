@@ -97,3 +97,4 @@
 - [2026-02-04T15:36:52] Modularize utility classes (#301)
 - [2026-02-05T10:08:41] Optimize query performance (#571)
 - [2026-02-05T12:21:51] Clean up deprecated methods (#344)
+- [2026-02-05T12:46:19] Clean up deprecated methods (#420)
