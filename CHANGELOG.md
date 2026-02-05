@@ -98,3 +98,4 @@
 - [2026-02-05T10:08:41] Optimize query performance (#571)
 - [2026-02-05T12:21:51] Clean up deprecated methods (#344)
 - [2026-02-05T12:46:19] Clean up deprecated methods (#420)
+- [2026-02-05T17:35:57] Clean up deprecated methods (#285)
