@@ -99,3 +99,4 @@
 - [2026-02-05T12:21:51] Clean up deprecated methods (#344)
 - [2026-02-05T12:46:19] Clean up deprecated methods (#420)
 - [2026-02-05T17:35:57] Clean up deprecated methods (#285)
+- [2026-02-06T16:08:34] Tune memory allocation in worker threads (#577)
