@@ -110,3 +110,4 @@
 - [2026-02-07T16:52:21] Add test suite for helper functions (#409)
 - [2026-02-07T17:07:48] Update configuration defaults (#457)
 - [2026-02-07T18:06:05] Enhance caching mechanism (#220)
+- [2026-02-07T18:23:26] Clean up unused imports and formatting (#277)
