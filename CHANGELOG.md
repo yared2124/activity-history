@@ -102,3 +102,4 @@
 - [2026-02-06T16:08:34] Tune memory allocation in worker threads (#577)
 - [2026-02-07T10:34:30] Improve error handling and logging (#990)
 - [2026-02-07T10:31:46] Sync dependencies and patch security alerts (#121)
+- [2026-02-07T13:24:06] Clean up deprecated methods (#703)
