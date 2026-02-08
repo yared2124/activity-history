@@ -117,3 +117,4 @@
 - [2026-02-08T12:13:06] Update README with usage instructions (#325)
 - [2026-02-08T16:37:33] Modularize utility classes (#772)
 - [2026-02-08T16:40:30] Add integration test cases (#739)
+- [2026-02-08T16:32:06] Improve error handling and logging (#145)
