@@ -112,3 +112,4 @@
 - [2026-02-07T18:06:05] Enhance caching mechanism (#220)
 - [2026-02-07T18:23:26] Clean up unused imports and formatting (#277)
 - [2026-02-08T10:39:39] Fix edge case in input validation (#962)
+- [2026-02-08T10:30:37] Update README with usage instructions (#514)
