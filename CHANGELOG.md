@@ -119,3 +119,4 @@
 - [2026-02-08T16:40:30] Add integration test cases (#739)
 - [2026-02-08T16:32:06] Improve error handling and logging (#145)
 - [2026-02-08T17:16:11] Implement retry mechanism for network requests (#652)
+- [2026-02-08T20:09:23] Fix boundary index calculations (#943)
