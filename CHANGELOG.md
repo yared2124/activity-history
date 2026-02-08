@@ -114,3 +114,4 @@
 - [2026-02-08T10:39:39] Fix edge case in input validation (#962)
 - [2026-02-08T10:30:37] Update README with usage instructions (#514)
 - [2026-02-08T11:23:08] Refine algorithm for data transformation (#640)
+- [2026-02-08T12:13:06] Update README with usage instructions (#325)
