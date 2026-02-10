@@ -125,3 +125,4 @@
 - [2026-02-09T14:48:39] Improve error handling and logging (#134)
 - [2026-02-09T19:02:32] Tune memory allocation in worker threads (#259)
 - [2026-02-09T21:25:48] Add test suite for helper functions (#271)
+- [2026-02-10T10:48:22] Update configuration defaults (#785)
