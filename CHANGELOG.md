@@ -128,3 +128,4 @@
 - [2026-02-10T10:48:22] Update configuration defaults (#785)
 - [2026-02-10T11:23:14] Update README with usage instructions (#259)
 - [2026-02-11T10:28:56] Refactor data processing pipeline (#959)
+- [2026-02-12T21:09:58] Add test suite for helper functions (#499)
