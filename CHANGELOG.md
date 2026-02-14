@@ -132,3 +132,4 @@
 - [2026-02-13T15:20:45] Update README with usage instructions (#132)
 - [2026-02-13T16:34:27] Clean up unused imports and formatting (#380)
 - [2026-02-14T12:08:14] Enhance caching mechanism (#888)
+- [2026-02-14T19:00:16] Modularize utility classes (#272)
