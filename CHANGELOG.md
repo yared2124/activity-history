@@ -143,3 +143,4 @@
 - [2026-02-16T17:34:09] Optimize query performance (#243)
 - [2026-02-16T17:16:12] Fix edge case in input validation (#512)
 - [2026-02-16T17:01:29] Update configuration defaults (#335)
+- [2026-02-16T20:40:58] Clean up deprecated methods (#458)
