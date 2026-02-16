@@ -137,3 +137,4 @@
 - [2026-02-16T09:45:16] Modularize utility classes (#798)
 - [2026-02-16T10:41:20] Add integration test cases (#469)
 - [2026-02-16T10:34:08] Standardize response schema (#816)
+- [2026-02-16T10:39:03] Standardize response schema (#248)
