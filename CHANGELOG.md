@@ -135,3 +135,4 @@
 - [2026-02-14T19:00:16] Modularize utility classes (#272)
 - [2026-02-15T19:46:56] Tune memory allocation in worker threads (#551)
 - [2026-02-16T09:45:16] Modularize utility classes (#798)
+- [2026-02-16T10:41:20] Add integration test cases (#469)
